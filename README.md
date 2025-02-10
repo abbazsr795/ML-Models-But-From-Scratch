@@ -2,18 +2,10 @@
 Trying to build popular machine learning algorithms from scratch
 ## Regression 
 ### 1D Linear Regression
-Trying to create a simple regression model using just C++
+Trying to create a simple regression model using just C++. The model utilizes lasso regression to eliminate effects of over fitting of outliers
 
-The model utilizes lasso regression to eliminate effects of over fitting of outliers
-
-Alter the following to get the best output :
-
-Epochs
-Learning rate
-Lasso Penalty
-The following function is also provided as an evaluation metric :
-
-Mean Absolute Error (MAE)
+Alter the following to get the best output : Epochs, Learning rate, Lasso Penalty
+The following function is also provided as an evaluation metric :Mean Absolute Error (MAE)
 ### Multi D Linear Regression 
 This project is the second part of my previous one (https://github.com/abbazsr795/1-Dimentional-Linear-Reggression-With-CPP) where I attempted to build a linear regression model with C++
 
